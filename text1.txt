@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is FAD9-3382
-
- Directory of C:\Users\v-giar\Desktop\Project
-
-10/31/2017  09:42 AM    <DIR>          .
-10/31/2017  09:42 AM    <DIR>          ..
-10/31/2017  09:42 AM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  231,891,738,624 bytes free
+Modified Text1
